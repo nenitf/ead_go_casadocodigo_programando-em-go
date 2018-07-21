@@ -1,4 +1,5 @@
-[programando em go](https://www.casadocodigo.com.br/products/livro-google-go).
+* [programando em go](https://www.casadocodigo.com.br/products/livro-google-go).
+* [repo oficial de exercicios](https://github.com/caiofilipini/casadocodigo-go)
 
-Para executar:
+Execução:
 ```go run path/arquivo.go```
